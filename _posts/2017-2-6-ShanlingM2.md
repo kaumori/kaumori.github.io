@@ -1,4 +1,7 @@
-# SHANLING M2 レビュー
+---
+layout: post
+title: SHANLING M2 レビュー
+---
 
 ![外観]({{kaumori.github.io}}/images/IMG_0610-9.jpg)
 
