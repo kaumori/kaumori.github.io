@@ -1,5 +1,7 @@
 # SHANLING M2 レビュー
 
+![top](kaumori.github.io/images/IMG_0610-9.jpg)
+
 今更ながら、SHANLINGという中国メーカーのDAPを借りる機会がありましたのでレビューします。
 
 2015年発売、国内では2016年8月頃から販売されました。
